@@ -16,6 +16,9 @@
   "prisma": {
     "seed": "tsx prisma/seed.ts"
   },
+  "engines": {
+    "node": ">=20"
+  },
   "keywords": ["inventory", "express", "typescript", "prisma", "postgresql"],
   "license": "MIT",
   "dependencies": {
